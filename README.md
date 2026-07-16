@@ -9,8 +9,11 @@ It includes the project overview, design approach, simulation behavior, block di
 ## Scope Note
 
 - The 2×2, 4×4, and 8×8 stages were independently implemented and functionally simulated.
-- The 16×16 stage was partially executed due to tooling and integration issues.
-- Timing figures, performance graphs, and the 16×16 waveform image referenced in this documentation are drawn from published IEEE literature, not independently measured — see individual docs for details.
+- The 16×16 stage was partially completed due to tooling and integration challenges encountered   while scaling up the design.
+- Timing figures, performance graphs, and the 16×16 waveform image referenced in this
+  documentation are drawn from published IEEE literature, not independently measured. These are
+  included for comparison, to show the expected behavior at full scale alongside the self
+  executed smaller stages — see individual docs for details.
 
 ---
 
